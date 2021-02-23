@@ -1,7 +1,5 @@
-```markdown
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-# Thiago Marinho
+#Marcos Santana
 
 ## Fala pessoal! tudo tranquilo? 👋
 Sou estudante de Análise e Desenvolvimento de Sistemas, e amante de programação,
